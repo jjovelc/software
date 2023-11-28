@@ -27,4 +27,4 @@ Enter you email, click on 'License Server' and enter the IP address of the float
 
 <span style="background-color: limegreen; color: black; padding: 5px; border-radius: 5px; font-weight: bold;">IMPORTANT INFORMATION</span>
 
-Please make sure you close Geneious after you finish your working session to allow other to be able to use the software too. For now, the Faculty only have 5 seats (5 licenses that can be used simultaneously).
+Please make sure you close Geneious after you finish your working session to allow others to be able to use the software too. For now, the Faculty only have 5 licenses that can be used simultaneously. The number of licenses may be increased depending on the demand of the software.
