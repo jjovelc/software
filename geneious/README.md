@@ -7,6 +7,24 @@ The Faculty of Veterinary Medicine of the University of Calgary  has purchased a
 
 Instructions to use geneious:
 
+## Install FortiClient VPN
+
+1. Go to the University of Calgary software distribution center;  https://iac01.ucalgary.ca/SDSWeb/.
+2. Click on 'Continue to login' buttom.
+3. By the end of the page, you will see 'FortiClient (MFA VPN 2022) 7.0.3 (Version may change over time). Click on Select (in red at the right).
+4. Select the corresponding installer for you operating system. Click on [Details/Download]
+5. Click on 'Download Software'.
+6. Click on 'Download' on the right of the installer file name.
+7. Install FortiClient following the instructions provided by the installer.
+8. Open FortiClient and enter the following information in the fields provided:
+   Server: **gvpn2.ucalgary.ca:10443**
+   Username: your user (same as email, before @)
+   Password: same password you use in your email
+
+Click on 'SAML Login' and follow instructions.   
+
+## Install and initialize Geneious
+
 1. Go to https://www.geneious.com/download/ and download the Geneious Prime app installation file appropriate for your operating system.
    
 2. Login into the FortiClient VPN.
